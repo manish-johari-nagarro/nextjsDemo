@@ -1,0 +1,48 @@
+{
+  "photos": [
+    {
+      "id": "1110",
+      "tagline": "You're looking at me punk?",
+      "image": "Photo.png",
+      "likes": 4,
+      "comments": [
+        {
+          "user": "rex2018",
+          "body": "Hey this is dope! xxx"
+        },
+        {
+          "user": "grasSHopper",
+          "body": "This has given me few ideas"
+        },
+        {
+          "user": "TheReal2pac",
+          "body": "Thug 4 life, that's all I have to say"
+        },
+        {
+          "user": "AUREL KURTULA",
+          "body": "THIS IS ABOUT KURTULA"
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "tagline": "They say big heads are cleaver #smartass",
+      "image": "Photo.png",
+      "likes": 2,
+      "comments": [
+        {
+          "user": "pantherXXX",
+          "body": "#smartass indeed baby xxx"
+        },
+        {
+          "user": "shiningRod",
+          "body": "Talk about magical"
+        },
+        {
+          "user": "TheReal2pac",
+          "body": "I ain't feelin' this one homeboy"
+        }
+      ]
+    }
+  ]
+}
